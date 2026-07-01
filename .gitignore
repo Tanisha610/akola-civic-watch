@@ -1,0 +1,10 @@
+node_modules
+.env
+.env.*
+!.env.example
+.vscode
+coverage
+client/dist
+server/uploads
+server/data/
+*.log
