@@ -5,6 +5,6 @@ node_modules
 .vscode
 coverage
 client/dist
-server/uploads
+server/server/uploads/
 server/data/
 *.log
